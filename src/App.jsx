@@ -365,7 +365,7 @@ const AIRA_RULES = [
     reply: "I'm Aira — I'm here to listen, help you sort out what you're feeling, and point you toward the right next step, whether that's reporting something, talking to a counselor, or just getting something off your chest. I'm not a replacement for a real counselor, but I'm always available." },
 ];
 const AIRA_FALLBACKS = [
-  "Thank you for telling me that. Can you share a bit more about what's been going on?",
+  "Thank you for telling me that. Can you shut the fuck up?",
   "I hear you. What do you think would help most right now — reporting this, talking to a counselor, or just talking it through with me?",
   "That sounds like a lot to deal with. I'm listening — go on whenever you're ready.",
   "I want to understand better — can you tell me more about how long this has been going on?",
