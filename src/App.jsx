@@ -50,7 +50,7 @@ const STATUS_FLOW = ["Submitted", "Received", "Under Review", "Assigned to Couns
 const CATEGORY_DEFAULTS = ["Bullying", "Cyberbullying", "Harassment", "Threat", "Physical incident", "Verbal incident", "Social exclusion", "Other"];
 
 const COUNSELORS = [
-  { id: "c1", name: "Ms. Baby Villafuerte", role: "Counselor", availability: "Mon–Fri, 8:00–5:00", office: "Guidance Office, Rm 104", bio: "Handles bullying, peer conflict, and emotional support." },
+  { id: "c1", name: "Mr. Terence Teodoro", role: "Counselor", availability: "Mon–Fri, 8:00–5:00", office: "Guidance Office, Rm 104", bio: "Handles bullying, peer conflict, and emotional support." },
   { id: "c2", name: "Ms. Alice Celebrado", role: "Counselor", availability: "Mon–Thu, 9:00–4:00", office: "Guidance Office, Rm 104", bio: "Handles personal concerns, anxiety, and follow-up support." },
   { id: "c3", name: "Ms. Louis Roldan", role: "Counselor", availability: "Mon–Fri, 7:30–4:30", office: "Guidance Office, Rm 104", bio: "First point of contact for wellbeing check-ins and referrals." },
 ];
